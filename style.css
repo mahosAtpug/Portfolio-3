@@ -1,0 +1,52 @@
+h1{
+    color:red;
+}
+
+h2{
+    color:red;
+    text-align:center;
+}
+
+p{
+    color:brown;
+    text-align:center;
+
+}
+
+.item p{
+    color:magenta;
+}
+/* *{
+    border:solid
+} */
+.header{
+    background-color:cyan;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    background-color: #FED2A5;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+/* .siteDescription{
+     background-color:#D48BAE; 
+
+} */
+
+
+.footer{
+    /* background-color: #8A79AF; */
+    display:flex;
+    justify-content:flex-end;
+
+}
+
+body{
+    background-color: #FED2A5;
+}
+
